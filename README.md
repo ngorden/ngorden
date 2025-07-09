@@ -1,8 +1,8 @@
 # Nicholas Gorden
 ## San Diego Metro-Area
 
-- Backend Software Engineer at [BD](bd.com)
-- [Chess enthusiast](chess.com/members/stonkilla2)
+- Backend Software Engineer at [BD](https://bd.com/)
+- [Chess enthusiast](https://chess.com/members/stonkilla2)
 - Proud (Almost) husband
 
 ## Tech Stack
